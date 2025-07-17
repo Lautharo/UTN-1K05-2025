@@ -1,0 +1,10 @@
+Introducción a las SECCIONES CONICAS: Circunferencia, Elipse, Parábola, Hipérbola: https://www.youtube.com/watch?v=-3Ts-GWZR-c
+Circunferencia como lugar geométrico, forma ordinaria, general, elementos: https://www.youtube.com/watch?v=LIEmHsa00II
+Como encontrar la ecuacion de una circunferencia cuando conoces el centro y un punto: https://www.youtube.com/watch?v=0v2Ax-jBFSA
+Elipse trazado y elementos | Introducción: https://www.youtube.com/watch?v=P-PhOy9F7Sg
+Ecuación de la elipse dada la excentricidad 1: https://www.youtube.com/watch?v=WOaj1_yQDxg
+Teoria Hiperbola: https://www.youtube.com/watch?v=YxZs3MuY8Pg
+Hipérbola trazado y elementos | Introducción: https://www.youtube.com/watch?v=Se7nSqmYUJE
+Teoria de Parabola: https://www.youtube.com/watch?v=qVrdS0Lm8p4
+Parábola como lugar geométrico, elementos, ecuación canónica, general.: https://www.youtube.com/watch?v=fSRQYYjjM_M
+Cómo graficar cónicas (circunferencia, elipse, parábola, hipérbola) con GeoGebra: https://www.youtube.com/watch?v=qlyIpAcdod8
