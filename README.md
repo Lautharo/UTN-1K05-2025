@@ -2,3 +2,4 @@ Este es un repositorio para el primer año de ISI de la UTN-FRT. Lo iremos actua
 - Colaboradores:
 * Lautharo
 * FerryBG
+* Jose Andrade
