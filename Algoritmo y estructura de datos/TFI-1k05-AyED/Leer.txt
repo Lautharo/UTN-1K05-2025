@@ -1,0 +1,14 @@
+TFI-AyED-1k05
+
+Trabajo elaborado por:
+Ingeniería de Sistemas en Información 1k05
+* Apás Thiago Lautaro
+* Bustos Geronimo Francisco
+* Novillo Daruich Lucca Joaquin
+
+Aquí dejamos el código y el ejecutable del trabajo final integrador de la materia
+algoritmo y estructuras de datos
+
+Hay un PDF que se muestra el informe del trabajo pero además un video el cual
+muestra las animaciones y videos que incorpora el PDF, ya que este es incompatible
+con animaciones. Muchas gracias por su atención.
